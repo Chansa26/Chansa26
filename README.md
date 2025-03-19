@@ -31,7 +31,7 @@ Developed a fully functional hotel booking platform using Django, enabling users
 ---
 
 ### 📊 GitHub Stats  
-![Chansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
+![Chansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chansa26&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
 
 ---
