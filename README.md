@@ -9,14 +9,16 @@
 
 🌐 Projects:
 - Developed a fully functional online Hotel Booking site using Django framework, allowing users to browse available rooms, book them for a requested period.
+- built a Smart home automation, using an esp32 for cloud communication with google firebase realtimeDB and an arduino for actuators amd sensors of the house model which relays to the esp32. the microcontrollers used c++ programming language.
+
 
 🤝 Work Experience:
-- Zedgeek innovations, We assist in sourcing and procuring a wide range of ICT products, including hardware components, networking equipment, software licenses, peripherals, and accessories.
+- Zedgeek innovations, assisted in sourcing and procuring a wide range of ICT products, including hardware components, networking equipment, software licenses, peripherals, and accessories.
 - Provide IT and Computer assistance.
 
 🚀 Extracurricular:
 - Facilitating discussions on new technologies and programming concepts in Google Developer Student Club.
-- IEEE Xtreme Programming Competition 17.0 ,Working with a team to solve multiple programming problems in a 24-hour time span.
+- IEEE Xtreme Programming Competition 17.0 ,Working with a team I managed  to solve multiple programming problems in a 24-hour time span.
 
 🏆 Certifications:
 - CCNAv7: Introduction to Networks , Cisco Networking Academy.
