@@ -1,38 +1,44 @@
-👋 Hello there! I'm Chansa Mwita, a passionate and results-driven Computer Systems Engineering student at the University of Zambia. 💻 As a fullstack web developer, I thrive on turning ideas into elegant and functional solutions.
+### 👋 Hello, I'm Chansa Mwita! 
 
-🚀 Skills:
-- Languages: Python, Java
-- Web Technologies: HTML, CSS, JavaScript
-- Database Management: MySQL
-- Framework: Django
-- Project Management: IT Project Management
+🎓 Computer Systems Engineer | 💻 Fullstack Web Developer | 🚀 Tech Enthusiast  
 
-🌐 Projects:
-- Developed a fully functional online Hotel Booking site using Django framework, allowing users to browse available rooms, book them for a requested period.
-- built a Smart home automation, using an esp32 for cloud communication with google firebase realtimeDB and an arduino for actuators amd sensors of the house model which relays to the esp32. the microcontrollers used c++ programming language.
+---
 
+### 🔧 Tech Stack
+- **Languages:** Python, Java, C++
+- **Web Technologies:** HTML, CSS, JavaScript
+- **Databases:** MySQL, Firebase RealtimeDB
+- **Frameworks:** Django
+- **Microcontrollers:** ESP32, Arduino
+- **Project Management:** IT Project Management  
 
-🤝 Work Experience:
-- Zedgeek innovations, assisted in sourcing and procuring a wide range of ICT products, including hardware components, networking equipment, software licenses, peripherals, and accessories.
-- Provide IT and Computer assistance.
+---
 
-🚀 Extracurricular:
-- Facilitating discussions on new technologies and programming concepts in Google Developer Student Club.
-- IEEE Xtreme Programming Competition 17.0 ,Working with a team I managed  to solve multiple programming problems in a 24-hour time span.
+### 🌟 Projects  
+🔹 **Smart Home Automation**  
+Designed and built a smart home system using ESP32 for cloud communication with Google Firebase and Arduino for sensors and actuators.
 
-🏆 Certifications:
-- CCNAv7: Introduction to Networks , Cisco Networking Academy.
-- IT Essentials, Cisco Networking Academy.
-- NDG Linux Unhatched course, Cisco Networking Academy.
+🔹 **Online Hotel Booking System**  
+Developed a fully functional hotel booking platform using Django, enabling users to browse available rooms and book them easily.
 
+---
 
-🎓 Education:
-- Currently pursuing a Bachelor of Science in Computer Science System Engineering with an expected graduation date in May 2024.
+### 🏆 Certifications  
+✔️ CCNAv7: Introduction to Networks (Cisco)  
+✔️ IT Essentials (Cisco)  
+✔️ NDG Linux Unhatched (Cisco)  
 
-🔗 Connect with me:
-- https://www.linkedin.com/in/chansa-mwita-33673a2a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- Personal: +260973924704
-- Email: Chansa915@gmail.com
+---
 
-Let's innovate, collaborate, and build the future of technology together! 🌐✨
+### 📊 GitHub Stats  
+![Chansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
 
+---
+
+### 🔗 Connect With Me  
+📧 **Email:** Chansa915@gmail.com  
+💼 **LinkedIn:** [Chansa Mwita](https://www.linkedin.com/in/chansa-mwita-33673a2a4)  
+🌍 **Portfolio:** (Coming Soon)  
+
+🚀 *Let's innovate, collaborate, and build the future of technology together!* ✨
